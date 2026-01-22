@@ -3,8 +3,8 @@
 The Password Strength Checker System is a Python-based console application developed as part of the SEN 201 assignment. The system evaluates the strength of a user’s password based on predefined security criteria.
 
 ## Student Details
-- **Name:** BENSON KINGSLEY IKECHUKWU  
-- **Matric Number:** 24/14677  
+- **Name:** OLUSEGUN SAMUEL AYODELE 
+- **Matric Number:** 24/14745 
 - **Department:** Computer Science
 
 ---
